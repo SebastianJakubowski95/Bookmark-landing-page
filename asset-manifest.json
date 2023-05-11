@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Bookmark-landing-page/static/css/main.19a4c0bb.css",
+    "main.js": "/Bookmark-landing-page/static/js/main.22f0f4ec.js",
+    "static/js/787.46729148.chunk.js": "/Bookmark-landing-page/static/js/787.46729148.chunk.js",
+    "static/media/illustration-features-tab-3.svg": "/Bookmark-landing-page/static/media/illustration-features-tab-3.a4206aab7946773b29b702492d2d014b.svg",
+    "static/media/illustration-features-tab-2.svg": "/Bookmark-landing-page/static/media/illustration-features-tab-2.e933bd6d921c537d7743e08ea4ec488e.svg",
+    "static/media/illustration-hero.svg": "/Bookmark-landing-page/static/media/illustration-hero.07801d05cb11930f0c826add8c05ce22.svg",
+    "static/media/logo-bookmark-burger.svg": "/Bookmark-landing-page/static/media/logo-bookmark-burger.2ea99c8fb8d10c971a6ba788161b95c8.svg",
+    "static/media/logo-bookmark-blue.svg": "/Bookmark-landing-page/static/media/logo-bookmark-blue.d426263a94701e122e7d14b0c6eee7ce.svg",
+    "static/media/logo-bookmark-white.svg": "/Bookmark-landing-page/static/media/logo-bookmark-white.7f796a617f6a7127dd0b784932f712ee.svg",
+    "static/media/illustration-features-tab-1.svg": "/Bookmark-landing-page/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
+    "static/media/logo-chrome.svg": "/Bookmark-landing-page/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
+    "index.html": "/Bookmark-landing-page/index.html",
+    "static/media/logo-firefox.svg": "/Bookmark-landing-page/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
+    "static/media/bg-dots.svg": "/Bookmark-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12393cb5f391a7.svg",
+    "static/media/icon-twitter.svg": "/Bookmark-landing-page/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
+    "static/media/icon-facebook.svg": "/Bookmark-landing-page/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
+    "static/media/icon-error.svg": "/Bookmark-landing-page/static/media/icon-error.a46cc66573dea1a15acb0dd260693083.svg",
+    "static/media/logo-opera.svg": "/Bookmark-landing-page/static/media/logo-opera.ff14e4763945338fe002017c72e7e597.svg",
+    "static/media/icon-close.svg": "/Bookmark-landing-page/static/media/icon-close.b04dc29397de9c9f194fb075c140e966.svg",
+    "static/media/icon-hamburger.svg": "/Bookmark-landing-page/static/media/icon-hamburger.4385fd507d24f37ccbb3ae359b5c9555.svg",
+    "static/media/icon-arrow-blue.svg": "/Bookmark-landing-page/static/media/icon-arrow-blue.8174203a5d4fc44f5247b825de6e2158.svg",
+    "static/media/icon-arrow-red.svg": "/Bookmark-landing-page/static/media/icon-arrow-red.7867210deb3de81f5bb24aa9055a9e03.svg",
+    "main.19a4c0bb.css.map": "/Bookmark-landing-page/static/css/main.19a4c0bb.css.map",
+    "main.22f0f4ec.js.map": "/Bookmark-landing-page/static/js/main.22f0f4ec.js.map",
+    "787.46729148.chunk.js.map": "/Bookmark-landing-page/static/js/787.46729148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a4c0bb.css",
+    "static/js/main.22f0f4ec.js"
+  ]
+}
