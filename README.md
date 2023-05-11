@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive card details form
+# Frontend Mentor - Bookmark landing page
 
 ![Screenshot](./desktop-preview.jpg)
 
