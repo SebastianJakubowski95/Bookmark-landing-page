@@ -1,0 +1,15 @@
+.cell {
+  color: var(--grey);
+  font-size: 1rem;
+  letter-spacing: 0.02;
+  background-color: transparent;
+  border-bottom: 1px solid #c7c7c700;
+  padding: 0.625rem;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 11.25rem;
+}
+.selected {
+  border-bottom: 4px solid #fa5757;
+}

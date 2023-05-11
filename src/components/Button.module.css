@@ -1,0 +1,115 @@
+.btn {
+  scale: 1;
+  transition: scale 300ms ease;
+}
+.btn:hover {
+  scale: 1.02;
+}
+.login {
+  width: 6.8125rem;
+  height: 2.3125rem;
+  border-radius: 0.2rem;
+  border: 2px solid;
+  border-color: var(--red);
+  transition: background-color 300ms ease, color 300ms ease;
+  background-color: var(--red);
+  color: var(--white);
+}
+.login:hover {
+  background-color: var(--white);
+  color: var(--red);
+}
+
+.login-burger {
+  width: 90%;
+  max-width: 21.4375rem;
+  height: 2.75rem;
+  border-radius: 0.2rem;
+  border: 2px solid;
+  border-color: var(--white);
+  background-color: transparent;
+  color: var(--white);
+  transition: background-color 300ms ease, color 300ms ease;
+}
+.login-burger:active {
+  background-color: var(--white);
+  color: var(--blue-dark);
+}
+
+.hero {
+  border-radius: 3px;
+  border: 2px solid;
+  width: 10.4375rem;
+  height: 2.9375rem;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  transition: background-color 300ms ease, color 300ms ease,
+    border-color 200ms ease;
+}
+.card-extension {
+  width: 14.5rem;
+  height: 2.9375rem;
+  border: 2px solid;
+  background-color: var(--blue-light) !important;
+  color: var(--white) !important;
+  border-color: var(--blue-light) !important;
+  transition: color 300ms ease, border-color 300ms ease,
+    background-color 300ms ease;
+}
+.card-extension:hover {
+  color: var(--blue-light) !important;
+  border-color: var(--blue-light);
+  background-color: var(--white) !important;
+}
+.hero-full {
+  background-color: var(--blue-light) !important;
+  color: var(--white) !important;
+  border-color: var(--blue-light);
+  transition: color 300ms ease, border-color 300ms ease,
+    background-color 300ms ease;
+}
+
+.hero-outline {
+  background-color: var(--white);
+  color: var(--grey);
+  border-color: var(--white) !important;
+  transition: color 300ms ease, border-color 300ms ease,
+    background-color 300ms ease;
+}
+
+.hero-full:hover {
+  color: var(--blue-light) !important;
+  border-color: var(--blue-light);
+  background-color: var(--white) !important;
+}
+.hero-outline:hover {
+  background-color: var(--white);
+  color: var(--grey);
+  border-color: var(--grey) !important;
+}
+.more-info {
+  width: 7rem;
+  height: 3rem;
+  border-radius: 0.2rem;
+  border: none;
+  color: var(--white);
+  font-family: "Rubik", sans-serif;
+  background-color: var(--blue-light);
+}
+
+.contact-us {
+  width: 8.125rem;
+  height: 2.2975rem;
+  border-radius: 3px;
+  background-color: var(--red);
+  color: var(--white);
+  font-family: "Rubik", sans-serif;
+  border: unset;
+  position: relative;
+  top: 8px;
+}
+
+@media (max-width: 768px) {
+  .contact-us {
+    width: 18.75rem;
+  }
+}
