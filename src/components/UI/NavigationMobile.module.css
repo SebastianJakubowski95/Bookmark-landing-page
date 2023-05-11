@@ -1,0 +1,77 @@
+.main button {
+  background-color: transparent;
+  border: none;
+}
+.main {
+  display: flex;
+  padding: 2rem 1rem 3.875rem;
+  justify-content: space-between;
+  position: relative;
+  z-index: 1;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+.main-content li a {
+  color: #fbffff;
+}
+.main-content li a:hover {
+  color: var(--red);
+}
+.main-content li {
+  padding: 1rem;
+  display: grid;
+  place-items: center;
+  font-size: 1.25rem;
+}
+.main-content li:nth-child(1) {
+  border-top: 1px solid #4c526c;
+}
+.main-content li:nth-child(2) {
+  border-top: 1px solid #4c526c;
+}
+.main-content li:nth-child(3) {
+  border-top: 1px solid #4c526c;
+  border-bottom: 1px solid #4c526c;
+}
+
+.burgerNav li {
+  width: 90%;
+}
+
+.burgerNav ul {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.burgerNav {
+  width: 90%;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  position: fixed;
+  bottom: 2rem;
+  width: 100%;
+}
+
+.socialIcon {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+.modal {
+  background-color: #252b46;
+  opacity: 0.95;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+}
